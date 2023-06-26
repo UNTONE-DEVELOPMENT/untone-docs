@@ -1,0 +1,26 @@
+{
+    "src": {
+        "title": "UNTONE Documentation Home"
+    },
+    "oauth": {
+        "title": "OAuth Connections",
+        "children": {
+            "test": {
+                "title": "Test Doument"
+            }
+        }
+    },
+    "user": {
+        "title": "User Operations",
+        "children": {
+            "get": {
+                "title": "Get User",
+                "children": {
+                    "get": {
+                        "title": "WE GO DEEPER"
+                    }
+                }
+            }
+        }
+    }
+}
